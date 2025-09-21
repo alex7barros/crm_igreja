@@ -1,0 +1,22 @@
+
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "src/App.tsx",
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.3",
+    "axios": "^0.21.1",
+    "tailwindcss": "^2.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
+                
